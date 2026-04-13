@@ -1,0 +1,5 @@
+[
+  {"id":"kraken-docks","name":"Kraken Docks","hazardIntensity":4,"theme":"Industrial shipyard at dusk.","hazards":["Crane swing","Splash geysers"],"legalModes":["Casual"],"dayNight":["Day","Night"]},
+  {"id":"sunken-coliseum","name":"Sunken Coliseum","hazardIntensity":2,"theme":"Ancient arena above tidal ruins.","hazards":["Rising water","Cracked floors"],"legalModes":["Casual","Ranked"],"dayNight":["Day","Night"]},
+  {"id":"storm-altar","name":"Storm Altar","hazardIntensity":5,"theme":"Lightning-torn shrine platform.","hazards":["Thunder pillars","Wind gusts"],"legalModes":["Casual"],"dayNight":["Night"]}
+]

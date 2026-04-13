@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-ink: #0b1020;
+  --bg-ocean: #0f2747;
+  --brand-gold: #f8b500;
+  --brand-red: #e63946;
+  --accent-cyan: #2ec4ff;
+  --text-ivory: #f6f1e9;
+  --muted: #9aa8bd;
+}
+
+html { scroll-behavior: smooth; }
+body { background: var(--bg-ink); color: var(--text-ivory); }

@@ -1,0 +1,7 @@
+[
+  {"q":"What platforms are planned?","a":"PC first, then current-gen consoles."},
+  {"q":"Controller support?","a":"Yes, full support for major gamepads and remapping."},
+  {"q":"How does ranked work?","a":"Seasonal ladders with crew-based MMR and anti-smurf checks."},
+  {"q":"Anti-cheat?","a":"Server-side validation plus behavior heuristics."},
+  {"q":"Regional servers?","a":"NA, EU, APAC planned for playtests."}
+]

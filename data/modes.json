@@ -1,0 +1,8 @@
+[
+  {"name":"1v1 Duel","players":"2","duration":"4-6 min","skill":"High","chaos":"Low"},
+  {"name":"2v2 Crew Clash","players":"4","duration":"6-8 min","skill":"High","chaos":"Medium"},
+  {"name":"Free-for-All","players":"4","duration":"5-7 min","skill":"Medium","chaos":"Very High"},
+  {"name":"Stock Battle","players":"2-4","duration":"7-10 min","skill":"High","chaos":"Medium"},
+  {"name":"Time Battle","players":"2-4","duration":"3-5 min","skill":"Medium","chaos":"High"},
+  {"name":"Party Mutators","players":"2-4","duration":"4-8 min","skill":"Low","chaos":"Maximum"}
+]
